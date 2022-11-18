@@ -1,10 +1,10 @@
 # TestA4
 
-Run Jacoco:
-mvn clean test
+### Run Jacoco:
+###mvn clean test
 
-Run PiTest in root of project:
-mvn test-compile org.pitest:pitest-maven:mutationCoverage
+###Run PiTest in root of project:
+###mvn test-compile org.pitest:pitest-maven:mutationCoverage
 
 Play Snake
 Run the SnakeGame.java file
