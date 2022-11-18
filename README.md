@@ -7,7 +7,7 @@
 ### mvn test-compile org.pitest:pitest-maven:mutationCoverage
 
 ### Play Snake
-### Run the SnakeGame.java file
+### Run the GameStarter.java file
 
 ### Testing Mockito
 ### 1. How do you verify that a mock was called?
